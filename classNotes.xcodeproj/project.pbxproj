@@ -17,6 +17,8 @@
 		BF496DE82AD04E1C00037E94 /* classNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF496DE72AD04E1C00037E94 /* classNotesTests.swift */; };
 		BF496DF22AD04E1C00037E94 /* classNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF496DF12AD04E1C00037E94 /* classNotesUITests.swift */; };
 		BF496DF42AD04E1C00037E94 /* classNotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF496DF32AD04E1C00037E94 /* classNotesUITestsLaunchTests.swift */; };
+		BF496E012AD04F4000037E94 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF496E002AD04F4000037E94 /* Student.swift */; };
+		BF496E032AD0559900037E94 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF496E022AD0559900037E94 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		BF496DED2AD04E1C00037E94 /* classNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = classNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF496DF12AD04E1C00037E94 /* classNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classNotesUITests.swift; sourceTree = "<group>"; };
 		BF496DF32AD04E1C00037E94 /* classNotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classNotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF496E002AD04F4000037E94 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		BF496E022AD0559900037E94 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				BF496DCF2AD04E1A00037E94 /* SceneDelegate.swift */,
 				BF496DD12AD04E1A00037E94 /* ViewController.swift */,
 				BF496DD32AD04E1A00037E94 /* Main.storyboard */,
+				BF496E022AD0559900037E94 /* ViewController3.swift */,
+				BF496E002AD04F4000037E94 /* Student.swift */,
 				BF496DD92AD04E1C00037E94 /* Assets.xcassets */,
 				BF496DDB2AD04E1C00037E94 /* LaunchScreen.storyboard */,
 				BF496DDE2AD04E1C00037E94 /* Info.plist */,
@@ -263,8 +269,10 @@
 			files = (
 				BF496DD22AD04E1A00037E94 /* ViewController.swift in Sources */,
 				BF496DCE2AD04E1A00037E94 /* AppDelegate.swift in Sources */,
+				BF496E032AD0559900037E94 /* ViewController3.swift in Sources */,
 				BF496DD82AD04E1A00037E94 /* classNotes.xcdatamodeld in Sources */,
 				BF496DD02AD04E1A00037E94 /* SceneDelegate.swift in Sources */,
+				BF496E012AD04F4000037E94 /* Student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
